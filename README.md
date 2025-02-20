@@ -16,6 +16,11 @@ First player to reach 100 points wins!
 Click "New Game" to reset and play again.
 
 # 📸 Screenshots
+![Start Game](start.jpg)
+![score1](score1.jpg)
+![score2](score2.jpg)
+![win](win.jpg)
+
 
 # 🛠️ Technologies Used
 HTML – Structure
